@@ -1,0 +1,13 @@
+body{
+    p{
+        width:2500px; 
+        background-color: greenyellow; 
+        font-size: xx-large;
+    }
+    p1{
+        font-size:larger;
+        img{
+            width: 25px;
+        }
+    }
+}
